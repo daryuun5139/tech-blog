@@ -5,6 +5,7 @@ import { CategoryType, categoryArray } from "@/types/blog";
 import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
+import { useEffect } from "react";
 
 type Props = {
   list: CategoryType[];
@@ -29,7 +30,7 @@ const CategoryBox = ({ list, count }: Props) => {
             <div key={item.id}>
               <Link
                 href={`/${lng}/category/${item.category}/page/1`}
-                className="label-hover mx-2 my-2 flex w-fit rounded-xl border-[1px] border-gray-300 p-2 pl-1 text-center text-sm dark:border-[#773B01] dark:text-[#773B01]"
+                className="label-hover m-1 flex w-fit rounded-xl border-[1px] border-gray-300 p-1 text-center text-sm dark:border-[#773B01] dark:text-[#773B01] sm:m-2 sm:p-2 sm:pl-1"
               >
                 <Image
                   className="mr-1"

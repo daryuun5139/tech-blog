@@ -1,8 +1,8 @@
 {
-  "title1": "title：Tokyo Real Estate",
+  "title1": "title：Simple Blog",
   "overview": "overview：",
-  "overview1": "A website that features somewhat quirky real estate properties located in Tokyo.",
-  "overview2": "Since I enjoy browsing property websites, I decided to create one myself.",
+  "overview1": "A Simple Blog created with basic techs.",
+  "overview2": "I created this to confirm the techniques I learned.",
   "tech": "tech Used：",
   "tech1": "Next.js, tailwind, Typescript, microcms"
 }
