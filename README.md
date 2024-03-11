@@ -3,7 +3,7 @@
 ##### <概要>
 Next.jsで作成したシンプルなブログです。
 Next.jsでwebサイトを一から作成したいと思い作成しました。
-バックエンドにはmicroCMS（ヘッドレスCMS）を採用しています。
+バックエンドにはmicroCMS（ヘッドレスCMS）を採用しています。  
 [URL]: https://tech-blog-pink.vercel.app/ja
 <img src="public/readme/tech-blog-readme.png" alt="tech-blog-readme" title="tech-blog-readme" width="250" height="350"><img src="public/readme/tech-blog-readme.png" alt="tech-blog-readme" title="tech-blog-readme" width="250" height="350">
 
@@ -26,14 +26,15 @@ Next.js13(app router), microCMS, i18next, next-themes, highlight.js, tailwind, t
 
 ##### <パフォーマンス>
 
-<img src="public/readme/pagespeed.png" alt="pagespeed" title="pagespeed" width="350" height="250">
+<img src="public/readme/pagespeed.png" alt="pagespeed" title="pagespeed" width="450" height="300">
 
 ##### <参考URL>
 
 <大枠>
-  - [Next.js 13 app directory で記事投稿サイトを作ってみよう（Zenn）](https://zenn.dev/azukiazusa/articles/next-js-app-dir-tutorial)
-  - [microCMS × Next.js（TypeScript）で個人ブログを作る（Qiita）](https://qiita.com/hinako_n/items/e53b02c241b8e35d42cb)
-  - [microCMS + Next.jsでJamstackブログを作ってみよう(microCMS公式ブログ)](https://blog.microcms.io/microcms-next-jamstack-blog/)
+
+- [Next.js 13 app directory で記事投稿サイトを作ってみよう（Zenn）](https://zenn.dev/azukiazusa/articles/next-js-app-dir-tutorial)
+- [microCMS × Next.js（TypeScript）で個人ブログを作る（Qiita）](https://qiita.com/hinako_n/items/e53b02c241b8e35d42cb)
+- [microCMS + Next.jsでJamstackブログを作ってみよう(microCMS公式ブログ)](https://blog.microcms.io/microcms-next-jamstack-blog/)
 
 <月別アーカイブ>
 
