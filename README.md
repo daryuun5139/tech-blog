@@ -3,9 +3,10 @@
 ##### <概要>
 Next.jsで作成したシンプルなブログです。
 Next.jsでwebサイトを一から作成したいと思い作成しました。
-バックエンドにはmicroCMS（ヘッドレスCMS）を採用しています。  
-[URL]: https://tech-blog-pink.vercel.app/ja
-<img src="public/readme/tech-blog-readme.png" alt="tech-blog-readme" title="tech-blog-readme" width="250" height="350"><img src="public/readme/tech-blog-readme.png" alt="tech-blog-readme" title="tech-blog-readme" width="250" height="350">
+バックエンドにはmicroCMS（ヘッドレスCMS）を採用しています。
+[URL]: https://tech-blog-pink.vercel.app/ja  
+
+<img src="public/readme/tech-blog-readme.png" alt="tech-blog-readme" title="tech-blog-readme" width="250" height="350"><img src="public/readme/tech-blog-readme02.png" alt="tech-blog-readme02" title="tech-blog-readme02" width="250" height="350">
 
 ##### <製作日>
 
